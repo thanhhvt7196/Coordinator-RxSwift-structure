@@ -125,7 +125,7 @@ Or add the path to the `bin` folder to your `$PATH` and invoke `swiftgen` direct
 
 ## Carthage
 
-When we decide to use some libraries, please use Carthage instead of CocoaPods if possible.
+When you integrate some libraries, please use Carthage instead of CocoaPods if possible!
 
 ### How to use Carthage.
 
@@ -141,7 +141,7 @@ $ carthage update --platform iOS --no-use-binaries
 
 ## CocoaPods
 
-If we can't find Carthage installation for a library, we can use CocoaPods for that library. 
+If you can't find Carthage installation for a library, you can use CocoaPods. 
 
 ## Project Structure
 ```
