@@ -133,7 +133,7 @@ general usage of Carthage for iOS.
 
 https://github.com/Carthage/Carthage#user-content-if-youre-building-for-ios-tvos-or-watchos
 
-Please use `carthage update` with `--platform iOS --no-use-binaries`. Please commit Cartfile and Cartfile.resolved if you have added some packages to Cartfile. (otherwise, dependencies will be broken and it'll be failed to build, or cause any other problems)
+Use `carthage update` with `--platform iOS --no-use-binaries`. Please commit Cartfile and Cartfile.resolved if you have added some packages to Cartfile. (otherwise, dependencies will be broken and it'll be failed to build, or cause any other problems)
 
 ```
 $ carthage update --platform iOS --no-use-binaries
