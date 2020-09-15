@@ -1,6 +1,6 @@
 # Coordinator-RxSwift-structure
 ## Swiftgen
-Using Swiftgen for automatically generated resources like images, fonts etc.
+Using Swiftgen for automatically generating resources like images, fonts etc.
 
 Here are multiple possibilities to install SwiftGen on your machine or in your project, depending on your preferences and needs:
 
