@@ -537,6 +537,13 @@
 			path = Base;
 			sourceTree = "<group>";
 		};
+		0C900C982510968C00E61B74 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		0CA96DF7251079CC0011DA0B /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
@@ -678,6 +685,7 @@
 		0CC4E4D3250B176200790B76 /* RxSwiftCoordinator */ = {
 			isa = PBXGroup;
 			children = (
+				0C900C982510968C00E61B74 /* Models */,
 				0CC4E4D4250B176200790B76 /* AppDelegate.swift */,
 				0CC4E4D6250B176200790B76 /* SceneDelegate.swift */,
 				0C900C802510923300E61B74 /* Networking */,
